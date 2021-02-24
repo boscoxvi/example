@@ -25,7 +25,7 @@ SECRET_KEY = 'v_($zf&=z8jouqji(=x$2&19+ssox$q^ezy7oeb3r%#nq#rg8y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'jayce.pythonanywhere.com']
 
 
 # Application definition
